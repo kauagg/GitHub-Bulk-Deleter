@@ -1,33 +1,55 @@
-# GitHub Repository Bulk Deleter 🗑️
+<h1 align="center" id="title">Git Hub Bulk Deleter</h1>
 
-![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
-![GitHub](https://img.shields.io/badge/GitHub-API-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20MacOS-lightgrey)
+<p align="center"><img src="https://socialify.git.ci/kauagg/GitHub-Bulk-Deleter/image?forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;pulls=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-A powerful desktop application for bulk management and deletion of GitHub repositories through an intuitive graphical interface.
+<p id="description">Ferramenta desktop em Python com interface gráfica para gerenciamento em massa de repositórios GitHub. Permite visualizar filtrar selecionar e excluir múltiplos repositórios simultaneamente através de uma interface amigável e segura</p>
 
-## ✨ Features
+  
+  
+<h2>🧐 Features</h2>
 
-- 🖼️ **User-Friendly GUI** - Easy to use Tkinter interface
-- 🔍 **Real-time Filtering** - Quickly find repositories
-- ☑️ **Multiple Selection** - Select multiple repositories for batch operations
-- 🗑️ **Bulk Deletion** - Delete multiple repositories at once
-- 🛡️ **Safety Measures** - Multiple confirmation dialogs
-- 📊 **Visual Feedback** - Progress tracking and status updates
-- 🔐 **Security** - Hidden token input and secure operations
-- ⚡ **Async Operations** - Non-blocking interface during operations
+Here're some of the project's best features:
 
-## 🚀 Quick Start
+*   Built with Python 3.6+
+*   Uses Tkinter for GUI
+*   GitHub REST API v3
+*   Threaded operations for responsive UI
+*   Cross-platform compatibility
 
-### Prerequisites
-- Python 3.6 or higher
-- GitHub account
-- GitHub personal access token
+<h2>🛠️ Installation Steps:</h2>
 
-### Installation
-1. **Download the application files**
-2. **Install dependencies:**
-   ```bash
-   pip install requests
+<p>1. Download the application files</p>
 
+<p>2. Install dependencies:</p>
+
+```
+pip install requests
+```
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Python
+*   Tkinter
+*   Asynchronous Operations
+*   HTTP & API Communication
+
+
+<h2>🛡️ License:</h2>
+
+This project is licensed under the MIT License
+
+<h2>💖Like my work?</h2>
+
+Fork the project Create a feature branch 
+
+(git checkout -b feature/AmazingFeature) 
+
+Commit your changes (git commit -m 'Add some AmazingFeature') 
+
+Push to the branch (git push origin feature/AmazingFeature)
+
+ Open a Pull Request
